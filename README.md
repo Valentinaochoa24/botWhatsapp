@@ -12,6 +12,7 @@ Uso
 
     Ejecute el script en un entorno de Python.
     Siga las instrucciones en la consola para proporcionar el mensaje que se enviará y la cantidad de veces que se enviará.
+    luego abra la pagina o el chat donde quiere que sea enviado.
     Espere a que el programa complete el envío de mensajes.
 
 Advertencia
